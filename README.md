@@ -1,4 +1,4 @@
-# netflix_clone
+# NetFlix Clone Using Flutter
 
 
 ## Getting Started
