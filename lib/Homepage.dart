@@ -8,7 +8,6 @@ import 'movieslider.dart';
 import 'moviesmodel.dart';
 
 
-
 class Homepage extends StatefulWidget {
   @override
   _HomepageState createState() => _HomepageState();
